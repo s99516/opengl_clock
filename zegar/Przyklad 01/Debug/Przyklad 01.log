@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(47,10): warning C4244: "=": konwersja z "double" do "GLint", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(48,10): warning C4244: "=": konwersja z "double" do "GLint", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(86,23): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(98,22): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(111,22): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(126,23): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(70,19): warning C4101: "sec_ticks": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(162,13): warning C4244: "argument": konwersja z "GLint" do "GLfloat", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(163,13): warning C4244: "argument": konwersja z "GLint" do "GLfloat", możliwa utrata danych
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(137,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\main.cpp(150,16): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generowanie kodu...
+  main.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+main.obj : warning LNK4248: nierozpoznany token typeref (01000017) dla elementu "GLUquadric"; uruchomienie obrazu może nie być możliwe
+  Przyklad 01.vcxproj -> C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\Debug\Przyklad 01.exe

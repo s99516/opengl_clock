@@ -1,0 +1,2 @@
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\Debug\Przyklad 01.vcxprojAssemblyReference.cache
+C:\Users\RAFAŁ\Desktop\openGL\zegar\Przyklad 01\Debug\Przyklad 01.exe
